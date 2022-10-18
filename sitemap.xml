@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/2014/09/creating-a-new-theme/</loc>
+    <loc>https://www.wei-jia.tech/2014/09/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>https://www.wei-jia.tech/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://www.wei-jia.tech/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://www.wei-jia.tech/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2014/04/hugo-template-primer/</loc>
+    <loc>https://www.wei-jia.tech/2014/04/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://www.wei-jia.tech/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/development/</loc>
+    <loc>https://www.wei-jia.tech/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/development/</loc>
+    <loc>https://www.wei-jia.tech/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2014/04/getting-started-with-hugo/</loc>
+    <loc>https://www.wei-jia.tech/2014/04/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/go/</loc>
+    <loc>https://www.wei-jia.tech/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/golang/</loc>
+    <loc>https://www.wei-jia.tech/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/golang/</loc>
+    <loc>https://www.wei-jia.tech/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hugo/</loc>
+    <loc>https://www.wei-jia.tech/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://www.wei-jia.tech/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/templates/</loc>
+    <loc>https://www.wei-jia.tech/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/themes/</loc>
+    <loc>https://www.wei-jia.tech/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>
